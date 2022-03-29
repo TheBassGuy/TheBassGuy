@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBassGuy
 - 👀 I’m interested in HTML, CSS, SCSS, JavaScript, MySQL, Java, Python
-- 🌱 I’m currently learning SCSS, JavaScript
+- 🌱 I’m currently learning Python
 
 <!---
 TheBassGuy/TheBassGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
