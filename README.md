@@ -5,9 +5,7 @@
 idk.
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [codeBass()](http://codebass.me/)
-- ✉️  You can contact me at [therealbassguy@gmail.com](mailto:therealbassguy@gmail.com)
-- 🚀  I'm currently working on [Codeflix (Netflix Clone)](http://codeflix.codebass.me/)
+- 🖥️  See my portfolio at [codeDroid()](http://codedroid.tech/)
 - 🧠  I'm learning Next JS, Remix JS, React, Redux
 - 🤝  I'm open to collaborating on Next JS Projects
 - ⚡  I'm a zyzz brah!
