@@ -10,4 +10,4 @@ idk.
 - 🤝  I'm open to collaborating on Next JS Projects
 - ⚡  I'm a zyzz brah!
 
-![gus]([https://user-images.githubusercontent.com/75574622/189493558-8f66f15e-3c5c-4e77-af1a-ad792266778f.gif](https://media.tenor.com/tgOwOCREoP4AAAAd/illuzory-irl-zyzz-flex-illuzory.gif))
+![gus](https://media.tenor.com/tgOwOCREoP4AAAAd/illuzory-irl-zyzz-flex-illuzory.gif)
