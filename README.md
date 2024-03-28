@@ -9,4 +9,5 @@
 - ⚡  I'm a zyzz brah!
 
 
-![TheBassGuy](https://user-images.githubusercontent.com/83549476/215334565-1e715dc5-9d45-48b3-b64d-6fb852dbc23d.gif)
+![deepfried_1711098156775](https://github.com/TheBassGuy/TheBassGuy/assets/83549476/c197a86d-3b7f-42cd-987c-3d7287d7dc6a)
+
